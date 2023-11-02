@@ -18,3 +18,8 @@ main {
     background-color: aliceblue;
     width: 400px;
 }
+
+.output {
+    padding: 10px;
+    background-color: rgb(146, 146, 172);
+}
