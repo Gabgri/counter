@@ -27,7 +27,7 @@ main {
     padding-top: 5px;
 
     position: absolute;
-    top: 40%;
+    top: 35%;
 }
 
 h1 {
@@ -38,7 +38,7 @@ h1 {
     border: none;
     color: #090909;
     font-weight: 700;
-    background-color: #e8e8e8;
+    background-color: #ccd9e7;
     font-size: 1em;
     padding: 10px 0 10px 0;
     box-shadow: 6px 6px 12px #c5c5c5,-6px -6px 12px #ffffff;
