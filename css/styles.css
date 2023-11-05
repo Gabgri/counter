@@ -36,12 +36,16 @@ h1 {
 
 .loadButton {
     border: none;
+    border-radius: 5px;
     color: #090909;
     font-weight: 700;
     background-color: #ccd9e7;
     font-size: 1em;
     padding: 10px 0 10px 0;
-    box-shadow: 6px 6px 12px #c5c5c5,-6px -6px 12px #ffffff;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    width: 280px;
+    align-self: center;
 }
 
 .loadButton:hover {

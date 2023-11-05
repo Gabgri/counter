@@ -20,7 +20,7 @@ function displayCounter() {
     thenDoThis();
 };
 
-startButton.onclick = ()=> displayCounter();
+startButton.onclick = () => displayCounter();
 
 function thenDoThis(){
     const plusButton = document.querySelector(".plus");
