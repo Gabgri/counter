@@ -19,16 +19,20 @@
     <body>
         <main id = container>
             <h1>Contatore +/-</h1>
+            <div id="introBox"></div> <!-- node.after(divBox) -->
 
-            <button id="startButton" class="loadButton">Avvia il contatore</button>
             <!-- Appearing with js
-            <div class="box">
+            <div id=box class="box">
                 <div data-output class="output">Output here</div>
                 <button class="all-clear">AC</button>
                 <button class="plus">+</button>
                 <button class="minus">-</button> 
             </div> 
             -->
+            <button data-action="startCounter" id="startButton" class="loadButton">Avvia il contatore</button>
+
+            <button data-action="exitCounter" id="exitButton" class="loadButton">Esci dal contatore</button>
+
         </main>    
         
     </body>
