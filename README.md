@@ -26,7 +26,7 @@
 # About the project
 * A simple counter +/-
   
-It provides a simple user interface and allows users to increment and decrement a counter's value or reset it to 0.
+It provides a simple user interface and allows users to increase and decrease a counter's value or reset it to 0.
 
 
 ## Built With
